@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.textName{
+color: blueviolet;
+}
+
+.textSpan{
+color: black;
+}
+ 
+@media screen and (min-width: 1250px) {
+  .img_Container {
+   height: 370px;
+  }
+ .img_detail{
+    width:350px !important
+  }
+}
